@@ -1,0 +1,13 @@
+{
+	"cacheClear": true,
+	"color": true,
+	"errorLevel": 2,
+	"loglevel": "warn",
+	"peer": true,
+	"pre": false,
+	"reject": ["eslint", "react-day-picker"],
+	"removeRange": true,
+	"root": true,
+	"target": "latest",
+	"upgrade": true
+}

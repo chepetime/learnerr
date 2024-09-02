@@ -7,16 +7,11 @@
 		"url": "https://github.com/chepetime/learnerr"
 	},
 	"license": "MIT",
-	"author": {
-		"email": "chepe.time@gmail.com"
-	},
+	"author": "<chepe.time@gmail.com>",
 	"type": "module",
 	"main": "./lib/index.js",
 	"files": [
-		"lib/",
-		"package.json",
-		"LICENSE.md",
-		"README.md"
+		"lib/"
 	],
 	"scripts": {
 		"build": "tsup",
